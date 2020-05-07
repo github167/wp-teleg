@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Add space for Chinese
+Plugin Name: mytg
 Description: It will add a space between each Chinese character
 Version: 0.1
 Author: C.T. Leung
